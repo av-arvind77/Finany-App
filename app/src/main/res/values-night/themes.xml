@@ -24,4 +24,20 @@
         <item name="material_dialog_positive_button_text_color">@color/colorPrimary</item>
         <item name="material_dialog_negative_button_text_color">@color/colorAccent</item>
     </style>
+
+    <!--Circular Image View-->
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!--Search View Theme-->
+    <style name="SearchViewTheme" parent="Widget.AppCompat.SearchView">
+        <item name="android:textColorHint">@android:color/darker_gray</item>
+        <item name="android:editTextColor">@android:color/darker_gray</item>
+        <item name="android:fontFamily">@font/font_aximo</item>
+        <item name="android:textSize">14sp</item>
+        <item name="queryHint">Search your country here .</item>
+        <item name="iconifiedByDefault">false</item>
+    </style>
 </resources>

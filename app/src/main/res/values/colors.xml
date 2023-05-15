@@ -2,7 +2,7 @@
 <resources>
     <color name="colorPrimary">@android:color/white</color>
     <color name="colorPrimaryDark">@android:color/black</color>
-    <color name="colorAccent">#00838F</color>
+    <color name="colorAccent">#0c6aee</color>
     <color name="statusBarColor">@android:color/white</color>
     <color name="windowBackground">#F3F3F3</color>
 
@@ -12,7 +12,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="surface">#FFFFFF</color>
-    <color name="background">#f9f9f9</color>
+    <color name="background">#f6f7f8</color>
 
     <color name="income">#6FCF97</color>
     <color name="expense">#EB5757</color>
