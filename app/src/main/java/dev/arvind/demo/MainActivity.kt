@@ -49,9 +49,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initViews(binding: ActivityMainBinding) {
-        setSupportActionBar(binding.toolbar)
+        /*setSupportActionBar(binding.toolbar)
 
-        supportActionBar!!.setDisplayShowTitleEnabled(false)
+        supportActionBar!!.setDisplayShowTitleEnabled(false)*/
 
         navHostFragment = supportFragmentManager
             .findFragmentById(R.id.nav_host_fragment) as NavHostFragment

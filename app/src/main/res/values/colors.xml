@@ -9,6 +9,9 @@
     <color name="textColor">@android:color/black</color>
 
     <color name="blue_500">#006AF6</color>
+    <color name="light_blue">#e0edff</color>
+    <color name="light_yellow">#ffefdb</color>
+    <color name="light_grey">#f0f3f6</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="surface">#FFFFFF</color>
